@@ -1,0 +1,43 @@
+[{
+        "id": 1,
+        "name": "Md Farukujjaman",
+        "ratings": 5.00,
+        "img": "https://s3-ap-southeast-1.amazonaws.com/rokomari110/user/0a7d405290db4_311057.jpg",
+        "text": "প্রথমে আমি ধন্যবাদ জানাই ভাইকে, এত সুন্দর ও সহজ সরলভাবে বইটি লেখার জন্য । আমি মনে করি যারা ডেভেলপমেন্ট শেখার শুরু করবেন বা শুরু করেছেন তাদের সবারই একবার হলেও বইটি পড়া উচিত ।  আর যারা ডেভেলপমেন্ট করবেন বা নেটওয়ার্কিং করবেন এইসব বিষয়ে সিদ্ধান্ত নিতে পারছেন না তারা বইটি পড়তে পারেন । বইটি পড়ার মাধ্যমে ডেভেলপমেন্টের ধারণা , প্রোগ্রামিং সম্পর্কে প্রচলিত ভুল ধারণা , এই ল্যাংগুয়েজ ভালো না ঐ ল্যাংগুয়েজ এই দ্বিধা দ্বন্দ্বের অবসান হবে।"
+    },
+    {
+        "id": 2,
+        "name": "Md Riazul Islam",
+        "ratings": 4.25,
+        "img": "https://lh3.googleusercontent.com/a-/AOh14Ghe5Vfxr9rmm0b478uHs28JPM-miCaHF_KD0iEDLME=s96-c",
+        "text": "A very good book for beginners. Covers almost all the basic topics to advanced topics ie - ES6 topics particularly. Written in a very comprehensive way, so anyone can understand. A little bit organisational issue with this book, some contents are repeated and some could've covered ahead of time(!). But nonetheless, anyone who wants to start JS can definitely buy this one. "
+    },
+    {
+        "id": 3,
+        "name": "Kazi Nowsad Towfiq",
+        "ratings": 4.50,
+        "img": "https://s3-ap-southeast-1.amazonaws.com/rokomari110/user/656eeeaafeeb4_119967.jpeg",
+        "text": "খুব সুন্দর এবং সহজ প্রানবন্ত ভাষায় জাভাস্ক্রিপ্ত এই বইয়ে আলোচনা করা হয়েছে । যারা নতুন জাভাস্ক্রিপ্ট শিখতে চাচ্ছেন তাদের জন্য একটা যুগান্তকারি বই । ধন্যবাদ রকমারিকে এরকম সুন্দর একটা বই তাদের লিস্টে রাখার জন্য । লেখককে অনেক ধন্যবাদ , এককম সুন্দর একটা বই লেখার জন্য"
+    },
+    {
+        "id": 4,
+        "name": "Jakir Hossain",
+        "ratings": 5.00,
+        "img": "https://lh3.googleusercontent.com/a-/AOh14GiB4sxfFrfw0r_12m4e8IQKLq39Oxm22lKnvMFG=s96-c",
+        "text": "আমি অনেক দিন ধরে প্রোগ্রামিং শিখতে চাচ্ছিলাম কিন্তু সঠিক গাইড লাইন এর অভাবে আমি কিছুতেই শুরু করতে পারছিলাম না কিন্তু এই বইটি হাতে পেয়ে পড়ে আমি অবাক এত সহজ ও সাবলীল ভাষা এই বইতে ব্যাবহার করা হয়েছে যে প্রত্যেকটি বিষয় আমি খুব সহজে বুঝতে পারছি"
+    },
+    {
+        "id": 5,
+        "name": "SM Nafis Ali",
+        "ratings": 1.00,
+        "img": "https://s3-ap-southeast-1.amazonaws.com/rokomari110/user/9cae6c5adcfb4_324443.jpg",
+        "text": "লেখকের ভাষা এমন হয় জানা ছিল না। এভাবে প্রোগামিং শিখানো যায়? নিজের জনপ্রিয়তা কাজে লাগিয়ে বই বিক্রয় এর ব্যবসা মাত্র এছাড়া কিছু নয়।"
+    },
+    {
+        "id": 6,
+        "name": "Md Fahid Islam",
+        "ratings": 5.00,
+        "img": "https://s3-ap-southeast-1.amazonaws.com/rokomari110/user/d11f09bb767c4_328993.jpeg",
+        "text": "ভাই, বইটি থেকে অনেক কিছু শিখতে পারবো। তবে, আপনার বই এর দাম অনেক বেশী রাখেন। এই জন্য আমাদের মতো মধ্যবিত্ত ছেলেরা বই সহজে কিনতে পারি না।"
+    }
+]

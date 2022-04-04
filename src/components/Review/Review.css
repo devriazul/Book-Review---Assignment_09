@@ -1,0 +1,10 @@
+.single-review {
+    border: 1px solid blue;
+    border-radius: 10px;
+}
+
+.single-review hr {
+    background-color: blue;
+    color: aliceblue;
+    opacity: 1;
+}

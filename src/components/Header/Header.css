@@ -1,0 +1,31 @@
+.heading-text {
+    color: blue;
+    text-decoration: none;
+}
+
+.my-nav .all-link a {
+    text-decoration: none;
+    margin-left: 20px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    width: 85px;
+    height: 30px;
+    color: blue;
+}
+
+.my-nav .all-link a:hover {
+    text-decoration: underline;
+    color: #fff;
+    background-color: blue;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 1200px) {
+    /*Tablets [601px -> 1200px]*/
+    .my-nav:first-child,
+    .my-nav:last-child {
+        display: block !important;
+        padding: 0 !important;
+        margin: 0 auto !important;
+    }
+}
